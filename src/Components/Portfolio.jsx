@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Online Voting",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "One shot platform to host elections and view results. Manage your voters, view live results, get result graphs and much more.",
+    url: "https://github.com/Pranshu1902/Online-Voting",
   },
   {
-    title: "Web Development for Beginners",
+    title: "The Gladden Project",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "People are not comfortable in sharing their personal life with stranger over the phone, that's why we created this amazing chatbot which offers you the same experience without having you to worry about your confidentiality.",
+    url: "https://github.com/Pranshu1902/The-Gladden-Project-fe/",
   },
   {
-    title: "My Resume Site",
+    title: "Bizz Card",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Create your digital identity today by using our simple and easy to use website to leave an amazing first impression. Created this project as a team for a hackathon.",
+    url: "https://github.com/Pranshu1902/Bizz-Card-fe/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Books World",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "One place to manage all the books you ever read. Get detailed analysis on the book you read, all comments on your books to track your records.",
+    url: "https://github.com/Pranshu1902/Books-World-fe/",
   },
 ];
 
